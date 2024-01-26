@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+.filaV{
+	background-color: lightgreen;
+	border: solid;
+	text-align: center;
+}
+.filaR{
+	background-color: red;
+	border: solid;
+	text-align: center;
+}
+.filaM{
+	background-color: mediumpurple;
+	border: solid;
+	text-align: center;
+}
+.filaN{
+	background-color: orange;
+	border: solid;
+	text-align: center;
+}
