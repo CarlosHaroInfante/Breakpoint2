@@ -1,0 +1,43 @@
+@charset "UTF-8";
+
+.filaV{
+		background-color: lightgreen;
+		height: 40px;
+	}
+
+	.colR{
+		background-color: red;
+		border: solid black 1px;
+	}
+	
+	.filaR{
+		background-color: pink;
+		
+	}
+	
+	.filaN {
+		
+		
+		background-color: orange;
+	}
+	
+	.col{
+		border: solid black 1px;
+	}
+	
+	.filaA{
+		background-color: mediumblue;
+	}
+	
+	.N{
+		
+		
+		height: 200px;
+		
+	}
+	
+	.A{
+		
+		height: 70px;
+	}
+	
